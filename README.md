@@ -1,5 +1,5 @@
-<h1 align="center">안녕하세요 👋, 저는 프론트개발자 박찬영입니다.</h1>
-<h3 align="center">저는 사용자 경험을 최우선으로 생각하는 프론트엔드 개발자입니다. 웹 페이지와 애플리케이션의 시각적 디자인과 기능을 구현하는 데 열정을 가지고 있습니다.</h3>
+<h1 align="left">안녕하세요 👋, 저는 프론트개발자 박찬영입니다.</h1>
+<h3 align="left">저는 사용자 경험을 최우선으로 생각하는 프론트엔드 개발자입니다. 웹 페이지와 애플리케이션의 시각적 디자인과 기능을 구현하는 데 열정을 가지고 있습니다.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=park-coding" alt="park-coding" /></a> </p>
 
